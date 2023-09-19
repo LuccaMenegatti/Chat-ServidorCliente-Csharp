@@ -1,0 +1,10 @@
+C:\Users\Lucca\Documents\Trabalho redes\Chat-TCP-IP\ChatServidor\ChatServidor\bin\Debug\ChatServidor.exe.config
+C:\Users\Lucca\Documents\Trabalho redes\Chat-TCP-IP\ChatServidor\ChatServidor\bin\Debug\ChatServidor.exe
+C:\Users\Lucca\Documents\Trabalho redes\Chat-TCP-IP\ChatServidor\ChatServidor\bin\Debug\ChatServidor.pdb
+C:\Users\Lucca\Documents\Trabalho redes\Chat-TCP-IP\ChatServidor\ChatServidor\obj\x86\Debug\ChatServidor.csproj.AssemblyReference.cache
+C:\Users\Lucca\Documents\Trabalho redes\Chat-TCP-IP\ChatServidor\ChatServidor\obj\x86\Debug\ChatServidor.Form1.resources
+C:\Users\Lucca\Documents\Trabalho redes\Chat-TCP-IP\ChatServidor\ChatServidor\obj\x86\Debug\ChatServidor.Properties.Resources.resources
+C:\Users\Lucca\Documents\Trabalho redes\Chat-TCP-IP\ChatServidor\ChatServidor\obj\x86\Debug\ChatServidor.csproj.GenerateResource.cache
+C:\Users\Lucca\Documents\Trabalho redes\Chat-TCP-IP\ChatServidor\ChatServidor\obj\x86\Debug\ChatServidor.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\Documents\Trabalho redes\Chat-TCP-IP\ChatServidor\ChatServidor\obj\x86\Debug\ChatServidor.exe
+C:\Users\Lucca\Documents\Trabalho redes\Chat-TCP-IP\ChatServidor\ChatServidor\obj\x86\Debug\ChatServidor.pdb
