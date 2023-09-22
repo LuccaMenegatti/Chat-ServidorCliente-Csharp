@@ -5,11 +5,11 @@
 - Linguagem C# ;
 - Visual Studio 2022;
 
-## Funcionamento 🚀
+## Funcionamento 
 
 Para que seja possível a troca de informações, são necessárias duas aplicações: o ‘cliente’ cuja finalidade é se conectar ao servidor para enviar e receber mensagens, e um ‘servidor’ responsável por realizar as conexões e armazena-las em uma ‘hash table’, a qual vai distribuir as mensagens para os usuários.
 
-**cOMO utilizar:** 
+**Como utilizar:** 
 
 - Abra o aplicativo do servidor inserido no repositório acima;
 - Insira o endereço de IP: resposável pela conexão LAN;
